@@ -11,7 +11,7 @@ export default function App() {
        style={{width:'100%',height:'100%', justifyContent:'center',alignItems:'center'}} 
        resizeMode="contain"
        >
-      <Text style={{color:"#fff"}}>Hello Sir</Text>
+      <Text style={{color:"#fff"}}>this is Web App</Text>
       <StatusBar style="auto" />
       </ImageBackground>
     </View>
